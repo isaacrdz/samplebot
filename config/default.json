@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "6d3b2d5518065926acdd5c7e94bb0d47",
+    "pageAccessToken": "EAADFZBpcqjKcBAAYI5gzzuYtpOwZBeZA3wfD6dXHn6ZBdXwuzHPsWic9skeBc5DYB6mclchU9UMzWNjEV4dUn5hlg4rvOU0EriTR2YASb1k0ZAh0HpVKHQBU1pQLrZAIUBDUBZC5DfJvLTmX9nGXxUarzZBppOZC7nBV30thoovWePwZDZD",
+    "validationToken": "hola_a_todos",
+    "serverURL": "https://immense-inlet-73293.herokuapp.com/"
 }
