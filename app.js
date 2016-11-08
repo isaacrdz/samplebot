@@ -61,7 +61,7 @@ if (!(APP_SECRET && VALIDATION_TOKEN && PAGE_ACCESS_TOKEN && SERVER_URL)) {
  * setup is the same token used here.
  *
  */
-app.get('/', function(req, res) {
+app.get('/webhook', function(req, res) {
   if (req.query['hub.mode'] === 'subscribe' &&
       req.query['hub.verify_token'] === hola_a_todos) {
     console.log("Validating webhook");
